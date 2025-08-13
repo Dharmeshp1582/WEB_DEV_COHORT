@@ -1,1 +1,1 @@
-This is web dev cohort codes by hitesh chaudhary sir and piyush garg sir 
+This is web dev cohort codes by hitesh chaudhary sir and piyush garg sir. 
